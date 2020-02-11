@@ -6,7 +6,7 @@ body {
   box-sizing: border-box;
   font-family: "Rubik", sans-serif;
 }
-
+/* MENU BAR */
 .menu {
   width: 100%;
   height: fit-content;
@@ -41,6 +41,7 @@ body {
 .link1 {
   padding-right: 10px;
 }
+/* MAIN */
 .main {
   width: 100%;
   height: 100vh;

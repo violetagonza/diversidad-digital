@@ -1,0 +1,13 @@
+/* BOXES */
+.image {
+  border: 3px solid blue;
+}
+.menu {
+  border: 3px solid red;
+}
+.menu-options {
+  border: 3px solid rgb(0, 255, 21);
+}
+.main {
+  border: 3px solid rgb(238, 255, 0);
+}
